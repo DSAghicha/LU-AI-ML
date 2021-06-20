@@ -11,7 +11,7 @@
 | :-------- | :------- | :------------------------- |
 |-|[Authors](#authors)|-|
 |-|[Refrence](#reference)|-|
-| Day #03| [Go]()|  |
+| Day #03| [Go](https://github.com/DSAghicha/LU-AI-ML/tree/main/Day%20%2303)| Exploring Python basics and Data Structure  |
 
 ## Authors
 
