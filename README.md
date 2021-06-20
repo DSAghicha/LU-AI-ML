@@ -1,7 +1,7 @@
 
 # Assignment Solution
 
-*This Directory is created to upload assignments for Let's Upgrade AI/ ML Certification Program Batch 01-07-2020**
+**This Directory is created to upload assignments for Let's Upgrade AI/ ML Certification Program Batch 01-07-2020**
 
 <ins>Note:</ins> Peeking source codes and/or copy them in your own assignments leads to the individual towards its own loss.
 
