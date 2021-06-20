@@ -11,7 +11,7 @@
 | :-------- | :------- | :------------------------- |
 |-|[Authors](#authors)|-|
 |-|[Refrence](#reference)|-|
-| Day #03| [Go](#sss)|  |
+| Day #03| [Go]()|  |
 
 ## Authors
 
