@@ -11,7 +11,10 @@
 | :-------- | :------- | :------------------------- |
 |-|[Authors](#authors)|-|
 |-|[Refrence](#reference)|-|
-| Day #03| [Go](https://github.com/DSAghicha/LU-AI-ML/tree/main/Day%20%2303)| Exploring Python basics and Data Structure  |
+| Day #03| [Go](https://github.com/DSAghicha/LU-AI-ML/tree/main/Day_03)| Exploring Python basics and Data Structure  |
+| Day #04|[Go](https://github.com/DSAghicha/LU-AI-ML/tree/main/Day_04)|Exploring complex numbers, `range()` function & Conditional Statements |
+|Day #05| [Go](https://github.com/DSAghicha/LU-AI-ML/tree/main/Day_05) | Exploring functions of string in Python |
+|Day #06| [Go](https://github.com/DSAghicha/LU-AI-ML/tree/main/Day_06) | Creating & Implementing coding logics for different problem statements.|
 
 ## Authors
 
