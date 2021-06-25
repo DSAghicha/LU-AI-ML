@@ -15,6 +15,7 @@
 | Day #04|[Go](https://github.com/DSAghicha/LU-AI-ML/tree/main/Day_04)|Exploring complex numbers, `range()` function & Conditional Statements |
 |Day #05| [Go](https://github.com/DSAghicha/LU-AI-ML/tree/main/Day_05) | Exploring functions of string in Python |
 |Day #06| [Go](https://github.com/DSAghicha/LU-AI-ML/tree/main/Day_06) | Creating & Implementing coding logics for different problem statements.|
+|Day #14-#15| [Go](https://github.com/DSAghicha/LU-AI-ML/tree/main/Day_14_15) | Exploring NumPy package.  |
 
 ## Authors
 
