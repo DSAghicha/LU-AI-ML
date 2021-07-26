@@ -15,7 +15,18 @@
 | Day #04|[Go](https://github.com/DSAghicha/LU-AI-ML/tree/main/Day_04)|Exploring complex numbers, `range()` function & Conditional Statements |
 |Day #05| [Go](https://github.com/DSAghicha/LU-AI-ML/tree/main/Day_05) | Exploring functions of string in Python |
 |Day #06| [Go](https://github.com/DSAghicha/LU-AI-ML/tree/main/Day_06) | Creating & Implementing coding logics for different problem statements.|
+|Day #07|[Go](https://github.com/DSAghicha/LU-AI-ML/tree/main/Day_07)| Attrition Analysis|
+|Day #10|[Go](https://github.com/DSAghicha/LU-AI-ML/tree/main/Day_10)| Statistical Learning|
+|Day #11|[Go](https://github.com/DSAghicha/LU-AI-ML/tree/main/Day_11)| Statistical Learning|
+|Day #12|[Go](https://github.com/DSAghicha/LU-AI-ML/tree/main/Day_12)| Statistical Learning|
 |Day #14-#15| [Go](https://github.com/DSAghicha/LU-AI-ML/tree/main/Day_14_15) | Exploring NumPy package.  |
+|Day #16-#17| [Go](https://github.com/DSAghicha/LU-AI-ML/tree/main/Day_16_17) | Exploring Pandas package.  |
+|Day #21|[Go](https://github.com/DSAghicha/LU-AI-ML/tree/main/Day_21)| Decision Tree|
+|Day #24|[Go](https://github.com/DSAghicha/LU-AI-ML/tree/main/Day_24)| Statistical Learning|
+|Day #25|[Go](https://github.com/DSAghicha/LU-AI-ML/tree/main/Day_25)| Statistical Learning|
+|Day #27|[Go](https://github.com/DSAghicha/LU-AI-ML/tree/main/Day_27)| Statistical Learning|
+|Day #35|[Go](https://github.com/DSAghicha/LU-AI-ML/tree/main/Day_35)| Statistical Learning|
+||||
 
 ## Authors
 
